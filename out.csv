@@ -1,0 +1,9 @@
+Categories,Words
+cat1pos,"simple,like,fruity,green,citrus,raspberry,vanilla,herbal,touch,character,make,bit,flavor,candy,slightly,bright,clean,peach,mouth,tart"
+cat1neg,"green,bitter,herbal,hard,citrus,little,heavy,sour,tart,like,feel,tannic,flavor,bit,slightly,character,flat,raspberry,mouth,sharp"
+cat2pos,"herbal,tart,note,lime,creamy,lead,just,style,easy,mouth,alongside,herb,lively,slightly,like,attractive,tannic,round,currant,mineral"
+cat2neg,"green,bitter,dark,note,bit,vanilla,herbal,citrus,cabernet,alongside,pepper,lead,tannic,slightly,come,hard,firm,tight,tart,coffee"
+cat3pos,"lemon,smooth,dense,licorice,character,great,touch,spicy,pear,mineral,concentrated,peach,herb,wood,savory,tobacco,leather,cassis,new,just"
+cat3neg,"dark,pepper,firm,cabernet,licorice,raspberry,structure,crush,chocolate,bottling,come,dense,vanilla,tight,tannic,tobacco,herb,time,long,need"
+cat4pos,"structure,great,dark,cabernet,balance,complex,long,dense,firm,vintage,delicious,power,powerful,chocolate,come,vineyard,richness,time,just,pepper"
+cat4neg,"dark,structure,tight,cabernet,dense,firm,long,chocolate,complex,crush,earth,pepper,peppercorn,rosemary,young,balance,bottle,bottling,concentrate,concentrated"
