@@ -1,0 +1,2 @@
+review = "Delivering profound notes of black and red currants, blackberry fruit, blood orange citrus, and dried raspberries underscored by baking spices \
+            and dried red florals, this pinot noir is also a textural masterpiece with mouthwatering acidity and grippy cedar-like tannins"

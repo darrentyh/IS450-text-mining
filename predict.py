@@ -74,11 +74,9 @@ def assign_topic(x):
     elif x == 3:
         return "Berries Wine"
     elif x == 4:
-        return "Cherry Plum Wine"
-    elif x == 5:
         return "White Wine"
-    else:
-        return "Peach Wine" 
+    elif x == 5:
+        return "Peach Wine"
 
 
 def topic_modelling(review, dict_corpus_path = r"./Topic Modelling/dictionary_bigram_cleaned_reviews_nverbs_only.txt", lda_model_path = r"/Topic Modelling/LDA Gensim (Initial Model)/LDA Gensim (Initial Model)/lda_tfidf_bigram_full_model.pk"):
